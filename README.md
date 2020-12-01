@@ -1,5 +1,5 @@
 # "Primeiros passos com .NET + C#"
-![Snake Game](https://raw.githubusercontent.com/HeberSilverio/emoji_jump-game_JavaScript/master/imagens/Game_JavaScript.PNG)
+![".NET + C#"](https://raw.githubusercontent.com/HeberSilverio/.NET-C-/main/img-code.PNG)
 
 ### 🎫 Descrição do Projeto 
 O conteúdo deste repositório são minhas anotações do curso "Primeiros passos com .NET + C#". Os principais assuntos absorvidos deste treinamento foram: como preparar ambiente, lidar com erros, classes e objetos.
