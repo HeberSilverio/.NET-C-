@@ -1,0 +1,7 @@
+Passo a passo para criar um projeto .NET:
+
+- dotnet new console -n "nome do projeto" //cria no template console
+- use o comando code . //para abrir no Visual Studio Code e clique em yes para criar a pasta .vscode
+- use o comando dotnet restore //Restaura os pacotes disponíveis para integrar ao projeto
+- use o comando dotnet build //Também restaura os pacotes e copila o código fonte em linguagem intermediária (ele gerou o arquivo .exe e .dll e .pdb e .json e o arquivo Program.cs que dá o start na aplicação quando utilizar o comando dotnet run
+- use o comando dotnet run //Executa a aplicação e imprime no terminal
