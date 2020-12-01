@@ -1,0 +1,16 @@
+D:\RepositorioLocal\dotNET+C#\Instrucoes\bin\Debug\net5.0\instrucoes.exe
+D:\RepositorioLocal\dotNET+C#\Instrucoes\bin\Debug\net5.0\instrucoes.deps.json
+D:\RepositorioLocal\dotNET+C#\Instrucoes\bin\Debug\net5.0\instrucoes.runtimeconfig.json
+D:\RepositorioLocal\dotNET+C#\Instrucoes\bin\Debug\net5.0\instrucoes.runtimeconfig.dev.json
+D:\RepositorioLocal\dotNET+C#\Instrucoes\bin\Debug\net5.0\instrucoes.dll
+D:\RepositorioLocal\dotNET+C#\Instrucoes\bin\Debug\net5.0\ref\instrucoes.dll
+D:\RepositorioLocal\dotNET+C#\Instrucoes\bin\Debug\net5.0\instrucoes.pdb
+D:\RepositorioLocal\dotNET+C#\Instrucoes\obj\Debug\net5.0\instrucoes.csprojAssemblyReference.cache
+D:\RepositorioLocal\dotNET+C#\Instrucoes\obj\Debug\net5.0\instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepositorioLocal\dotNET+C#\Instrucoes\obj\Debug\net5.0\instrucoes.AssemblyInfoInputs.cache
+D:\RepositorioLocal\dotNET+C#\Instrucoes\obj\Debug\net5.0\instrucoes.AssemblyInfo.cs
+D:\RepositorioLocal\dotNET+C#\Instrucoes\obj\Debug\net5.0\instrucoes.csproj.CoreCompileInputs.cache
+D:\RepositorioLocal\dotNET+C#\Instrucoes\obj\Debug\net5.0\instrucoes.dll
+D:\RepositorioLocal\dotNET+C#\Instrucoes\obj\Debug\net5.0\ref\instrucoes.dll
+D:\RepositorioLocal\dotNET+C#\Instrucoes\obj\Debug\net5.0\instrucoes.pdb
+D:\RepositorioLocal\dotNET+C#\Instrucoes\obj\Debug\net5.0\instrucoes.genruntimeconfig.cache

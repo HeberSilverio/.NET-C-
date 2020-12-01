@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RepositorioLocal\\dotNET+C#\\instrucoes\\instrucoes.csproj": {}
+    "D:\\RepositorioLocal\\dotNET+C#\\Instrucoes\\instrucoes.csproj": {}
   },
   "projects": {
-    "D:\\RepositorioLocal\\dotNET+C#\\instrucoes\\instrucoes.csproj": {
+    "D:\\RepositorioLocal\\dotNET+C#\\Instrucoes\\instrucoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RepositorioLocal\\dotNET+C#\\instrucoes\\instrucoes.csproj",
+        "projectUniqueName": "D:\\RepositorioLocal\\dotNET+C#\\Instrucoes\\instrucoes.csproj",
         "projectName": "instrucoes",
-        "projectPath": "D:\\RepositorioLocal\\dotNET+C#\\instrucoes\\instrucoes.csproj",
+        "projectPath": "D:\\RepositorioLocal\\dotNET+C#\\Instrucoes\\instrucoes.csproj",
         "packagesPath": "C:\\Users\\heber\\.nuget\\packages\\",
-        "outputPath": "D:\\RepositorioLocal\\dotNET+C#\\instrucoes\\obj\\",
+        "outputPath": "D:\\RepositorioLocal\\dotNET+C#\\Instrucoes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\heber\\AppData\\Roaming\\NuGet\\NuGet.Config"
