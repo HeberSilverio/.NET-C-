@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "instrucoes/1.0.0": {
+      "Instrucoes/1.0.0": {
         "runtime": {
-          "instrucoes.dll": {}
+          "Instrucoes.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "instrucoes/1.0.0": {
+    "Instrucoes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
