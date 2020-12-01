@@ -1,0 +1,16 @@
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\bin\Debug\net5.0\DIO.exe
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\bin\Debug\net5.0\DIO.deps.json
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\bin\Debug\net5.0\DIO.runtimeconfig.json
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\bin\Debug\net5.0\DIO.runtimeconfig.dev.json
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\bin\Debug\net5.0\DIO.dll
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\bin\Debug\net5.0\ref\DIO.dll
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\bin\Debug\net5.0\DIO.pdb
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\obj\Debug\net5.0\DIO.csprojAssemblyReference.cache
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\obj\Debug\net5.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\obj\Debug\net5.0\DIO.AssemblyInfoInputs.cache
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\obj\Debug\net5.0\DIO.AssemblyInfo.cs
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\obj\Debug\net5.0\DIO.csproj.CoreCompileInputs.cache
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\obj\Debug\net5.0\DIO.dll
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\obj\Debug\net5.0\ref\DIO.dll
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\obj\Debug\net5.0\DIO.pdb
+D:\RepositorioLocal\anotacoesBootcamp\Cursos\.NET\projeto\dio\obj\Debug\net5.0\DIO.genruntimeconfig.cache
