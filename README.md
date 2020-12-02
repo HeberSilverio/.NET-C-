@@ -25,7 +25,7 @@ O .NET é uma iniciativa da empresa Microsoft, que visa uma plataforma única pa
 
 [Download .NET](https://dotnet.microsoft.com/download), clique no link para fazer o download .NET
 
-[Documentação .NET](https://docs.microsoft.com/en-us/dotnet/), clique no link para acessar a documentação .NET
+[Documentação .NET](https://docs.microsoft.com/pt-br/dotnet/), clique no link para acessar a documentação .NET
 
 [.NET Foundation](https://dotnetfoundation.org/), clique no link para informações sobre .NET Foundation
 
